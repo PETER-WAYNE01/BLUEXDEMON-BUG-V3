@@ -7,9 +7,9 @@ global.qris = false
 
 
 // GLOBAL SETTING
-global.owner = "2348120055226"
+global.owner = "2348126699854"
 global.namabot = "*𝐁𝐋𝐔𝐄𝐃𝐄𝐌𝐎𝐍-𝐕𝟑*"
-global.nomorbot = "2348120055226"
+global.nomorbot = "2348126699854"
 global.namacreator = "*𝕯𝖊𝖒𝖔𝖓 𝖐𝖎𝖓𝖌* 👾"
 global.linkyt = false
 global.autoJoin = false
